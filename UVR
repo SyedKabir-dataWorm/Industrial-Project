@@ -1,97 +1,97 @@
-,Location,Month,UV_Index
-0,Darwin,Jan,12
-1,Brisbane,Jan,12
-2,Perth,Jan,12
-3,Sydney,Jan,11
-4,Canberra,Jan,11
-5,Adelaide,Jan,11
-6,Melbourne,Jan,10
-7,Hobart,Jan,8
-8,Darwin,Feb,13
-9,Brisbane,Feb,11
-10,Perth,Feb,11
-11,Sydney,Feb,10
-12,Canberra,Feb,8
-13,Adelaide,Feb,10
-14,Melbourne,Feb,9
-15,Hobart,Feb,7
-16,Darwin,Mar,12
-17,Brisbane,Mar,9
-18,Perth,Mar,9
-19,Sydney,Mar,8
-20,Canberra,Mar,7
-21,Adelaide,Mar,8
-22,Melbourne,Mar,7
-23,Hobart,Mar,4
-24,Darwin,Apr,11
-25,Brisbane,Apr,7
-26,Perth,Apr,6
-27,Sydney,Apr,5
-28,Canberra,Apr,5
-29,Adelaide,Apr,5
-30,Melbourne,Apr,4
-31,Hobart,Apr,3
-32,Darwin,May,9
-33,Brisbane,May,5
-34,Perth,May,4
-35,Sydney,May,3
-36,Canberra,May,3
-37,Adelaide,May,3
-38,Melbourne,May,2
-39,Hobart,May,1
-40,Darwin,June,8
-41,Brisbane,June,4
-42,Perth,June,3
-43,Sydney,June,2
-44,Canberra,June,2
-45,Adelaide,June,2
-46,Melbourne,June,2
-47,Hobart,June,1
-48,Darwin,July,9
-49,Brisbane,July,4
-50,Perth,July,3
-51,Sydney,July,3
-52,Canberra,July,2
-53,Adelaide,July,2
-54,Melbourne,July,2
-55,Hobart,July,1
-56,Darwin,Aug,10
-57,Brisbane,Aug,5
-58,Perth,Aug,4
-59,Sydney,Aug,4
-60,Canberra,Aug,3
-61,Adelaide,Aug,3
-62,Melbourne,Aug,3
-63,Hobart,Aug,2
-64,Darwin,Sept,12
-65,Brisbane,Sept,7
-66,Perth,Sept,6
-67,Sydney,Sept,5
-68,Canberra,Sept,5
-69,Adelaide,Sept,5
-70,Melbourne,Sept,4
-71,Hobart,Sept,3
-72,Darwin,Oct,13
-73,Brisbane,Oct,9
-74,Perth,Oct,8
-75,Sydney,Oct,7
-76,Canberra,Oct,7
-77,Adelaide,Oct,7
-78,Melbourne,Oct,6
-79,Hobart,Oct,4
-80,Darwin,Nov,12
-81,Brisbane,Nov,11
-82,Perth,Nov,10
-83,Sydney,Nov,9
-84,Canberra,Nov,9
-85,Adelaide,Nov,9
-86,Melbourne,Nov,8
-87,Hobart,Nov,6
-88,Darwin,Dec,12
-89,Brisbane,Dec,11
-90,Perth,Dec,11
-91,Sydney,Dec,10
-92,Canberra,Dec,11
-93,Adelaide,Dec,11
-94,Melbourne,Dec,10
-95,Hobart,Dec,7
+Location	Month	UV_Index
+Darwin	Jan	12
+Brisbane	Jan	12
+Perth	Jan	12
+Sydney	Jan	11
+Canberra	Jan	11
+Adelaide	Jan	11
+Melbourne	Jan	10
+Hobart	Jan	8
+Darwin	Feb	13
+Brisbane	Feb	11
+Perth	Feb	11
+Sydney	Feb	10
+Canberra	Feb	8
+Adelaide	Feb	10
+Melbourne	Feb	9
+Hobart	Feb	7
+Darwin	Mar	12
+Brisbane	Mar	9
+Perth	Mar	9
+Sydney	Mar	8
+Canberra	Mar	7
+Adelaide	Mar	8
+Melbourne	Mar	7
+Hobart	Mar	4
+Darwin	Apr	11
+Brisbane	Apr	7
+Perth	Apr	6
+Sydney	Apr	5
+Canberra	Apr	5
+Adelaide	Apr	5
+Melbourne	Apr	4
+Hobart	Apr	3
+Darwin	May	9
+Brisbane	May	5
+Perth	May	4
+Sydney	May	3
+Canberra	May	3
+Adelaide	May	3
+Melbourne	May	2
+Hobart	May	1
+Darwin	June	8
+Brisbane	June	4
+Perth	June	3
+Sydney	June	2
+Canberra	June	2
+Adelaide	June	2
+Melbourne	June	2
+Hobart	June	1
+Darwin	July	9
+Brisbane	July	4
+Perth	July	3
+Sydney	July	3
+Canberra	July	2
+Adelaide	July	2
+Melbourne	July	2
+Hobart	July	1
+Darwin	Aug	10
+Brisbane	Aug	5
+Perth	Aug	4
+Sydney	Aug	4
+Canberra	Aug	3
+Adelaide	Aug	3
+Melbourne	Aug	3
+Hobart	Aug	2
+Darwin	Sept	12
+Brisbane	Sept	7
+Perth	Sept	6
+Sydney	Sept	5
+Canberra	Sept	5
+Adelaide	Sept	5
+Melbourne	Sept	4
+Hobart	Sept	3
+Darwin	Oct	13
+Brisbane	Oct	9
+Perth	Oct	8
+Sydney	Oct	7
+Canberra	Oct	7
+Adelaide	Oct	7
+Melbourne	Oct	6
+Hobart	Oct	4
+Darwin	Nov	12
+Brisbane	Nov	11
+Perth	Nov	10
+Sydney	Nov	9
+Canberra	Nov	9
+Adelaide	Nov	9
+Melbourne	Nov	8
+Hobart	Nov	6
+Darwin	Dec	12
+Brisbane	Dec	11
+Perth	Dec	11
+Sydney	Dec	10
+Canberra	Dec	11
+Adelaide	Dec	11
+Melbourne	Dec	10
+Hobart	Dec	7
